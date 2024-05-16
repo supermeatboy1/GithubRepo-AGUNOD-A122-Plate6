@@ -1,5 +1,3 @@
-package ave.maria;
-
 import java.util.*;
 
 public class CycleTest {
