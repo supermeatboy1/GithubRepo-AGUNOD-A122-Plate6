@@ -1,0 +1,17 @@
+# Test case by Juan Miguel Agunod!
+# Problem 6, Test Case 5
+
+directed
+
+aa
+aa
+ab
+bc
+ca
+dd
+de
+ef
+ef
+ef
+fg
+ge

@@ -1,0 +1,4 @@
+# Test case by Juan Miguel Agunod!
+# Problem 4, Test Case 3
+ab
+cd

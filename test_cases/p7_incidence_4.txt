@@ -1,0 +1,11 @@
+# Test case by Juan Miguel Agunod!
+# Problem 7, Test Case 4
+ab
+bc
+bc
+bc
+cd
+da
+ef
+ef
+fg

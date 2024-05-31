@@ -1,0 +1,15 @@
+# Test case by Juan Miguel Agunod!
+# Problem 5, Test Case 5
+ad
+ae
+af
+ag
+ah
+bd
+be
+bf
+bg
+bh
+ci
+ij
+jk

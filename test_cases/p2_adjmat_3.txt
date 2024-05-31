@@ -1,0 +1,7 @@
+# Test case by Juan Miguel Agunod!
+# Problem 2, Test Case 3
+0 1 1 1 0
+1 0 1 1 1
+1 1 0 1 1
+1 1 1 0 1
+0 1 1 1 0
